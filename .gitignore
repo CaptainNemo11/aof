@@ -1,0 +1,11 @@
+*.do
+*.ini
+*.xml
+transcript
+*.wlf
+__pycache__
+sim_build
+*.log
+*.swp
+\#*\#
+.\#*
